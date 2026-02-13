@@ -66,8 +66,9 @@ Execute com Maven:
 ./mvnw spring-boot:run
 Ou rode diretamente pela sua IDE.
 ```
+---
 
-💡 Conceitos Aplicados
+##💡 Conceitos Aplicados
 Consumo de API REST
 
 Manipulação de JSON
@@ -78,7 +79,9 @@ Uso do CommandLineRunner
 
 Boas práticas de estruturação de projetos Java
 
-📚 Objetivo do Projeto
+---
+
+##📚 Objetivo do Projeto
 Este projeto foi desenvolvido com foco em:
 
 Praticar integração com APIs externas
@@ -88,6 +91,8 @@ Estruturar aplicações Java utilizando Spring Boot
 Aprimorar habilidades em desenvolvimento backend
 
 Consolidar conceitos de HTTP e consumo de serviços REST
+
+---
 
 👨‍💻 Autor
 Yago Pereira
