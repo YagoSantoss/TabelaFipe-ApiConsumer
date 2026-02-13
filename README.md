@@ -65,6 +65,7 @@ Execute com Maven:
 
 ./mvnw spring-boot:run
 Ou rode diretamente pela sua IDE.
+```
 
 💡 Conceitos Aplicados
 Consumo de API REST
